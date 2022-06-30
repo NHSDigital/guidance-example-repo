@@ -1,0 +1,4 @@
+variables:
+  service_name: guidance-example-repo
+  short_service_name: ger
+  service_base_path: guidance-example-repo
